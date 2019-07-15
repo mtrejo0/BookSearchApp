@@ -25,7 +25,7 @@ This app is intended to be the base project on top of which new features can be 
 
 ![Imgur](http://i.imgur.com/joPKoTk.gif)
 
-## Suggested Extensions
+## Extensions
 
 1. Use SearchView to search for books with a title
 2. Show ProgressBar before each network request
